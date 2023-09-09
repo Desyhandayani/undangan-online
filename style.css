@@ -30,7 +30,7 @@ body {
 }
 
 .hero h1,
-hero h4,
+.hero h4,
 .hero p {
     text-shadow: var(--shadow);
 }
